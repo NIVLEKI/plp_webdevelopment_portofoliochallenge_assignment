@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+.hero {
+  background: #00332e;
+  color: white;
+  padding: 80px 0;
+}
+.hero img {
+  max-height: 400px;
+}
+.services .card {
+  border: none;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.skills-bar span {
+  display: block;
+  background: #00b894;
+  height: 8px;
+  margin-bottom: 10px;
+}
